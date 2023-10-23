@@ -17,10 +17,10 @@
     <loc>/categories/development/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/html/</loc>
+    <loc>/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/tags/html/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/</loc>
@@ -31,5 +31,32 @@
   </url><url>
     <loc>/post/firstblog/</loc>
     <lastmod>2023-10-23T01:11:20+08:00</lastmod>
+  </url><url>
+    <loc>/post/forthblog/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/thirdblog/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>
